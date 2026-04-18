@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Edwin Chibuike 👋
 
-<!--
-**edwinjonathanchibuike123-sys/edwinjonathanchibuike123-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps & Cloud Engineer in training | Nigeria 🇳🇬  
+Building real infrastructure tools, not just tutorials.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I'm Building
+- AI-powered DevOps tooling
+- Containerized applications with Docker
+- CI/CD pipelines with GitHub Actions
+
+## ☁️ Tech Stack
+Python • Docker • GitHub Actions • Linux • Git • AWS
+
+## 🚀 Featured Project
+**[AI Log Analyzer](https://github.com/edwinjonathanchibuike123-sys/ai-log-analyzer)**  
+AI-powered tool that reads system logs and generates 
+intelligent incident reports using LLaMA 3.3 via Groq API.
+Stack: Python • Docker • GitHub Actions • Groq AI
+
+## 📚 Currently Learning
+AWS Core Services • Terraform • Kubernetes
+
+## 📫 Open To
+Global internships and junior DevOps opportunities
