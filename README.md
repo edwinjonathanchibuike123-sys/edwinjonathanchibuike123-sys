@@ -18,9 +18,3 @@ Python • Docker • GitHub Actions • Linux • Git • AWS
 AI-powered tool that reads system logs and generates 
 intelligent incident reports using LLaMA 3.3 via Groq API.
 Stack: Python • Docker • GitHub Actions • Groq AI
-
-## 📚 Currently Learning
-AWS Core Services • Terraform • Kubernetes
-
-## 📫 Open To
-Global internships and junior DevOps opportunities
